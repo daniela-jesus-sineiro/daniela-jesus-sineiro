@@ -1,11 +1,11 @@
 # Repository
 <div style="margin:auto;">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniela-jesus-sineiro&count_private=true&hide=contribs,prs,issues,stars&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniela-jesus-sineiro&count_private=true&hide=contribs,prs,issues,stars&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="margin:auto;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniela-jesus-sineiro&custom_title=Most%20Used%20Languages%202022&langs_count=10&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniela-jesus-sineiro&custom_title=Most%20Used%20Languages%202022&langs_count=10&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
